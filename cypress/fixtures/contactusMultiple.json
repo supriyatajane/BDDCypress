@@ -1,0 +1,22 @@
+[
+
+    {
+        "firstname": "supriya",
+        "lastname": "tajane",
+        "email": "supriyatajane2015@gmail.com",
+        "message": "Learning dev oops"
+    },
+    {
+        "firstname": "abhi",
+        "lastname": "tajane",
+        "email": "abhi42@gmail.com",
+        "message": "Learning phython"
+    },
+    {
+        "firstname": "rutuja",
+        "lastname": "varpe",
+        "email": "rutu12@gmail.com",
+        "message": "Learning java"
+    }
+
+]

@@ -1,0 +1,46 @@
+1)// what is testing ?
+
+
+ Testing is basically to test what is actual vs what is expected?
+
+ // Actual - system/web application 
+ // Expected  - documents
+ // If Difference between actual or expeced -- Bug
+
+
+2)// What is Bug?
+If there is difference between actual and expected , then it is bug ?
+
+
+3)// Where to report bug in automation as well manual ?
+// Jira
+
+4) What is Bug life cycle ?
+
+
+5) What is difference between restest and regression?
+
+Retest - If bug is reported , and developer analyse the same and fixed it ,
+and give to tester , tester perform restest
+
+Resting is done on failed testcases 
+
+Regression - To check whether the newly implemented feature has not affected ,
+previously implemented feature , such type of testing is Regression
+
+Regression testing is done on pass as well as failed testcases 
+
+
+
+6) What priority vs Severity ?
+
+
+7) What is testscenario and testcase? (Manual or automation)
+testscenario -- what to test 
+testcase - how to test (one scenario can have multiple testcases)
+
+8)What is to automation ?
+// Automation is usually done for regression testing
+
+
+

@@ -1,0 +1,27 @@
+Testscenario -  What to test?
+
+
+TS_1
+1)validate the login Panel form 
+
+
+TC_1 - validate the form with valid credentials 
+
+        Enter the valid username 
+        Enter the  valid password 
+        Click on login button 
+        
+
+        Expected (Assertion) - 
+        User successfully login and navigated to dashboard
+
+TC_2   validate the form with invalid credentials 
+
+        Enter the valid username 
+        Enter the  invalid password 
+        Click on login button 
+
+         Expected (Assertion) - 
+         User should be hi-lighted with valid alert message 'Invalid credentials'
+
+
