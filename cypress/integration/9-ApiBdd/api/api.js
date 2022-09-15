@@ -41,3 +41,6 @@ cy.get('@postUser').then(function(res){
     // expect(res.body.job).eq(job)
 })
 })
+
+
+console.log('hello')
