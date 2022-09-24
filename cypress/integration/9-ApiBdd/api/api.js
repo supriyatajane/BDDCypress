@@ -44,3 +44,4 @@ cy.get('@postUser').then(function(res){
 
 
 console.log('hello')
+console.log('h')
